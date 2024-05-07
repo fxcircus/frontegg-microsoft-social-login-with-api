@@ -1,4 +1,4 @@
-# Google Social Login with Frontegg APIs
+# Microsoft Social Login with Frontegg APIs
 Implementation of [Microsoft social Login](https://docs.frontegg.com/docs/microsoft-login) with Frontegg APIs
 
 ## How to run
